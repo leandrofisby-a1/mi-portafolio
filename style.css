@@ -1,0 +1,40 @@
+body{
+    background-color: #000000;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+h1{
+    color: #38bdf8;
+    font-size: 50px;
+}
+
+h2{
+    color: #facc15;
+}
+
+p{
+    font-size: 20px;
+}
+ul{
+    list-style-position: inside;
+    padding: 0;
+}
+
+li{
+    margin: 5px;
+}
+button{color:rgb(250, 250, 250);
+    background-color: green;
+    padding: 10px 20px;
+    border: 2px solid #38bdf8;
+    border-radius: 20px;
+    cursor: pointer;
+}
+img{
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
